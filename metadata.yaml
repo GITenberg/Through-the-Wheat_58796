@@ -1,11 +1,16 @@
 _repo: Through-the-Wheat_58796
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58796-h/images/cover.jpg
 creator:
   author:
     agent_name: Boyd, Thomas
     gutenberg_agent_id: '50155'
     url: http://www.gutenberg.org/2009/agents/50155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58796#Through-the-Wheat
 gutenberg_issued: '2019-01-31'
 gutenberg_type: Text
 identifiers:
